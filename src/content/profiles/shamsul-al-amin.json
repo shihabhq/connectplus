@@ -1,0 +1,81 @@
+{
+  "slug": "shamsul-al-amin",
+  "name": "Shamsul Al Amin",
+  "title": "Commercial & Creative Manager",
+  "company": "CorpoMerch",
+  "location": "Dhaka",
+  "status": "Open to new partnerships",
+  "photo": "/profiles/shamsul-al-amin.jpg",
+  "phone": "+8801700000000",
+  "email": "shamsul@corpomerch.com",
+  "website": "https://www.corpomerch.com",
+  "about": "Marketing and finance professional. I lead marketing as Director at SA Trading Corporation and study at Bangladesh University of Professionals. I've also led teams at the BUP Global Affairs Council and the BUP Entrepreneurship & Innovation Club.",
+  "skills": [
+    "Brand Strategy",
+    "B2B Sales",
+    "Content Planning",
+    "Team Leadership",
+    "Market Research"
+  ],
+  "experience": [
+    {
+      "name": "DSAT School",
+      "roles": [
+        {
+          "title": "Sales Executive",
+          "start": "2026-07",
+          "end": null,
+          "current": true
+        },
+        {
+          "title": "Creative Visualizer",
+          "start": "2026-01",
+          "end": "2026-06",
+          "current": false
+        }
+      ]
+    },
+    {
+      "name": "SA Trading Corporation",
+      "roles": [
+        {
+          "title": "Director of Marketing",
+          "start": "2026-01",
+          "end": null,
+          "current": true
+        },
+        {
+          "title": "Marketing Executive",
+          "start": "2025-06",
+          "end": "2025-12",
+          "current": false
+        }
+      ]
+    }
+  ],
+  "socials": [
+    { "type": "facebook", "value": "facebook.com/shamsul.alamin" },
+    { "type": "linkedin", "value": "linkedin.com/in/shamsul-al-amin" },
+    { "type": "whatsapp", "value": "+8801700000000" },
+    { "type": "telegram", "value": "@shamsulalamin" }
+  ],
+  "socialStyle": "brand",
+  "accent": "#F2323F",
+  "cv": {
+    "enabled": true,
+    "file": "/cv/shamsul-al-amin.pdf",
+    "label": "Full CV",
+    "updated": "2026-09"
+  },
+  "actions": {
+    "saveContact": true,
+    "call": true
+  },
+  "sections": {
+    "about": true,
+    "skills": true,
+    "experience": true,
+    "socials": true,
+    "contact": true
+  }
+}
